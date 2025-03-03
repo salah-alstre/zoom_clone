@@ -25,7 +25,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Assets & Code](#snippets)
+5. 🕸️ [Code](#snippets)
 6. 🚀 [Contact](#contact)
 
 
