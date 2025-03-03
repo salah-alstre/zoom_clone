@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a>
-      <img src="https://github.com/salah-alstre/zoom_clone/blob/main/Images/ZOOM.png" alt="Project Banner">
+      <img src="https://github.com/salah-alstre/zoom_clone/blob/main/Images/ZOOM_12.png" alt="Project Banner">
     </a>
   
   <br />
