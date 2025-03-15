@@ -421,6 +421,8 @@ export default MeetingCard;
 
 </details>
 
+## 🔗 Links
+The Figma design used in the project can be found [here](https://www.figma.com/design/kMFzpRJjyB0MQEMuc1dnCO/Untitled?node-id=0-1&t=ck9jZ8QoxlvU1csP-1)
 
 
 ## <a name="contact">🚀 Contact</a>
