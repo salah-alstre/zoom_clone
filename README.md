@@ -430,7 +430,7 @@ The Figma design used in the project can be found [here](https://www.figma.com/d
 If you have any questions or feedback, feel free to reach out:
 
 - Email: [email](mailto:error.salah59@gmail.com)
-- VC:    [ Salah Cv ](https://salahcv.site/)
+- VC:    [ Salah Cv ](https://devr-profile.vercel.app/)
 
 ## License
 This project is licensed under the MIT License.
